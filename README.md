@@ -1,10 +1,11 @@
-#Django-Allauth Social Authentication Project
+# Django-Allauth Social Authentication Project
 
 This Django project is designed to streamline user authentication by integrating social login functionality through seven major platforms: Facebook, Twitter, LinkedIn, Github, Reddit, Instagram, and Google.
 
-##Getting Started:
+## Getting Started:
 
-###Installation:
+### Installation:
+
 Ensure you have the required dependencies by installing them using the following command:
 
 python -m pip install -r requirements.txt
@@ -17,7 +18,7 @@ python -m pip install -r requirements.txt
 Configuration:
 Follow the documentation provided here to configure the client key and client secret for each social media platform. This step is essential for seamless integration.
 
-###Supported Social Platforms:
+### Supported Social Platforms:
 
 - Facebook
 - Twitter
