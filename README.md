@@ -8,12 +8,13 @@ This Django project is designed to streamline user authentication by integrating
 
 Ensure you have the required dependencies by installing them using the following command:
 
-python -m pip install -r requirements.txt
+    python -m pip install -r requirements.txt
 
-- Running the Django App:
-  Launch the Django app with the following command:
+Running the Django App:
 
-- python manage.py runserver
+- Launch the Django app with the following command:
+
+  python manage.py runserver
 
 Configuration:
 Follow the documentation provided here to configure the client key and client secret for each social media platform. This step is essential for seamless integration.
